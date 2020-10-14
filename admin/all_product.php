@@ -9,6 +9,7 @@ $data = mysqli_query($Server_Connection,$query);
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- This is test comment by Ketan -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>OGS | All Products</title>
