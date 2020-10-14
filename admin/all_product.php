@@ -8,7 +8,6 @@ $data = mysqli_query($Server_Connection,$query);
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<!-- PRuthvi -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
